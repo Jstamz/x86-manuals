@@ -19,3 +19,5 @@ various x86 manuals
 |245471-010  |2003          |030212     |IA-32 Intel® Architecture Software Developer’s Manual Volume 2: Instruction Set Reference |
 |245471-011  |2003          |030317     |IA-32 Intel® Architecture Software Developer’s Manual Volume 2: Instruction Set Reference |
 |245471-012  |2003          |030522     |IA-32 Intel® Architecture Software Developer’s Manual Volume 2: Instruction Set Reference |
+|253666-014  |2004          |040510     |IA-32 Intel® Architecture Software Developer’s Manual Volume 2A: Instruction Set Reference, A-M |
+|253667-014  |2004          |040510     |IA-32 Intel® Architecture Software Developer’s Manual Volume 2A: Instruction Set Reference, N-Z |
